@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @learning-enisda
-- 👀 I’m interested in python
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in web programing
+- 🌱 I’m currently learning html & PHP
 
 <!---
 learning-enisda/learning-enisda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
