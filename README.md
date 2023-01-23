@@ -1,7 +1,6 @@
 # Hi, I'm Enisda Libra
 
-I am a student, currently studying at the University of Sari Mulia. I am a curious learner, who is always eager to explore new technologies, and design techniques. I am driven by a burning desire to uncover the secrets of UI design and constantly seeking new challenges to grow. Also, I am an avid reader and listener, and I believe that knowledge should be shared and accessible.
-.
+I am a student, currently studying at the University of Sari Mulia. I am interest on UI design, always seeking new challenges and eager to explore new technologies. Passionate about uncovering the secrets of design and sharing my knowledge.
 
 ## Projects
 
