@@ -23,9 +23,9 @@ I am a student, currently studying at the University of Sari Mulia. I am interes
     - <img alt="Figma" src="https://img.shields.io/badge/Figma-v5.1-blue?style=for-the-badge">
 
 ## Contact
-- Email: [learningenisda@gmail.com](mailto:learningenisda@gmail.com)
-- LinkedIn: [https://id.linkedin.com/in/learn-enisda](https://id.linkedin.com/in/learn-enisda)
-- Twitter: [https://twitter.com/libra_enisda](https://twitter.com/libra_enisda)
+- [![Email](https://img.shields.io/badge/Email-learningenisda@gmail.com-orange?style=for-the-badge)](mailto:learningenisda@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-https%3A%2F%2Fid.linkedin.com%2Fin%2Flearn--enisda-blue?style=for-the-badge)](https://id.linkedin.com/in/learn-enisda)
+- [![Twitter](https://img.shields.io/badge/Twitter-https%3A%2F%2Ftwitter.com%2Flibra__enisda-blue?style=for-the-badge)](https://twitter.com/libra_enisda)
 
 ## Blog
 - [On Progress]
