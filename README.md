@@ -1,35 +1,21 @@
-# Hi, I'm Enisda Libra
+# 💫 About Me:
+I am a student, currently studying at the University of Sari Mulia.<br>I am interest on UI design, always seeking new challenges and eager to explore new technologies. <br>Passionate about uncovering the secrets of design and sharing my knowledge.
 
-I am a student, currently studying at the University of Sari Mulia. I am interest on UI design, always seeking new challenges and eager to explore new technologies. Passionate about uncovering the secrets of design and sharing my knowledge.
 
-## Projects
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/learningenisda1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/libra_enisda) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/earn-enisda) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/libra_enisda) 
 
-- **TikTok Sentiment Analysis** - A project that using Data Mining to analyze sentiment review of the TikTok app on the Google Play Store - [https://github.com/learning-enisda/tpdm-kelompok13](https://github.com/learning-enisda/tpdm-kelompok13) 
-    -  <a href="https://github.com/learning-enisda/tpdm-kelompok13">
-        <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/learning-enisda/tpdm-kelompok13?style=for-the-badge">
-      </a>
-      
-      <a href="https://github.com/learning-enisda/tpdm-kelompok13">
-        <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/learning-enisda/tpdm-kelompok13?style=for-the-badge">
-      </a>
+# 💻 Tech Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=learning-enisda&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=learning-enisda&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=learning-enisda&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## Skills
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=libra_enisda)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-- Programming languages: 
-    - <img alt="PyPI - Python Version" src="https://img.shields.io/badge/python-3.x-blue?style=for-the-badge">
-    - <img alt="PHP version" src="https://img.shields.io/badge/PHP-7.x-blue?style=for-the-badge">
-- Design : 
-    - <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-v24.0-blue?style=for-the-badge">
-    - <img alt="Figma" src="https://img.shields.io/badge/Figma-v5.1-blue?style=for-the-badge">
+---
+[![](https://visitcount.itsvg.in/api?id=learning-enisda&icon=1&color=0)](https://visitcount.itsvg.in)
 
-## Contact
-- [![Email](https://img.shields.io/badge/Email-learningenisda@gmail.com-orange?style=for-the-badge)](mailto:learningenisda@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-https%3A%2F%2Fid.linkedin.com%2Fin%2Flearn--enisda-blue?style=for-the-badge)](https://id.linkedin.com/in/learn-enisda)
-- [![Twitter](https://img.shields.io/badge/Twitter-https%3A%2F%2Ftwitter.com%2Flibra__enisda-blue?style=for-the-badge)](https://twitter.com/libra_enisda)
-
-## Blog
-- [On Progress]
-
-## Languages
-- <img alt="Indonesia" src="https://img.shields.io/badge/Indonesia-fluent-green?style=for-the-badge">
-- <img alt="English" src="https://img.shields.io/badge/English-intermediate-green?style=for-the-badge">
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
