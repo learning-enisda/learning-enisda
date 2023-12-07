@@ -1,6 +1,6 @@
-# 💫 About Me:
-I am a student, currently studying at the University of Sari Mulia.<br>I am interest on UI design, always seeking new challenges and eager to explore new technologies. <br>Passionate about uncovering the secrets of design and sharing my knowledge.
-
+# 😄 About Me:
+**I can transform your data into inside with Machine Learning.** <br>
+<p> I love the challenge of working with data. There are so many different types of data that I come across, some data needs to be cleaned, some data is very good and so on. But all this data becomes so powerful when it is turned into information that can solve complex problems, with machine learning it becomes possible. That's why I love data
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/learningenisda1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/libra_enisda) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/libra-enisda) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/libra_enisda) 
